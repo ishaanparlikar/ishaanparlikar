@@ -4,7 +4,7 @@
 ## Views
 [![](https://visitcount.itsvg.in/api?id=ishaanparlikar&icon=7&color=11)](https://visitcount.itsvg.in)
 
-## <img src="coding.svg" width="30" height="30" alt="Neovim">&nbsp;<img src="vscode.svg" width="30" height="30" alt="VS Code"/> Editor
+## ⌨️ Editor
 <img src="neovim.svg" width="30" height="30" alt="Neovim">&nbsp;<img src="vscode.svg" width="30" height="30" alt="VS Code"/>
 
 
