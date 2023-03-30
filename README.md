@@ -2,8 +2,7 @@
 <h3 align="center">Bringing ideas to life with full-stack wizardry and code sorcery, One Commit at a time 😉</h3>
 
 ## Editor
-<img src="neovim.svg" width="30" height="30" alt="Neovim">
-<img src="vscode.svg" width="30" height="30" alt="VS Code"/>
+<img src="neovim.svg" width="30" height="30" alt="Neovim">&nbsp;<img src="vscode.svg" width="30" height="30" alt="VS Code"/>
 
 
 ## 🌐 Socials:
