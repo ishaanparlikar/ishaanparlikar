@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ishan, Full-Stack Developer from 🇮🇳</h1>
 <h3 align="center">Bringing ideas to life with full-stack wizardry and code sorcery, One Commit at a time 😉</h3>
 
+[![](https://visitcount.itsvg.in/api?id=ishaanparlikar&icon=7&color=11)](https://visitcount.itsvg.in)
+
 ## Editor
 <img src="neovim.svg" width="30" height="30" alt="Neovim">&nbsp;<img src="vscode.svg" width="30" height="30" alt="VS Code"/>
 
@@ -36,9 +38,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ishaanparlikar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```
+Programs must be written for people to read, and only incidentally for machines to execute.
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishaanparlikar&icon=7&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
