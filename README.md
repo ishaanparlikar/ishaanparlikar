@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan, Full-Stack Developer from 🇮🇳</h1>
 <h3 align="center">Bringing ideas to life with full-stack wizardry and code sorcery, One Commit at a time 😉</h3>
 
-<h2 align="center">[![](https://visitcount.itsvg.in/api?id=ishaanparlikar&icon=7&color=11)](https://visitcount.itsvg.in)</h2>
-
+## Views [![](https://visitcount.itsvg.in/api?id=ishaanparlikar&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ## Editor
 <img src="neovim.svg" width="30" height="30" alt="Neovim">&nbsp;<img src="vscode.svg" width="30" height="30" alt="VS Code"/>
